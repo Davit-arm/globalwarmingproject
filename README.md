@@ -1,4 +1,4 @@
-# globalwarmingproject
+# Globby, 
 Globby, a bot about global warming
 
 Globby, is a bot, which's purpose is to teach the user about global warming by:
